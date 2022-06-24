@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![counter](https://envo4bc4xcl1s7n.m.pipedream.net)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/lovethefrogs?country.x=ES&locale.x=es_ES)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LovetheFrogs)
 
-🔭 I’m currently working on PyCircTools, a library to develop circuits in no time using python.
-🌱 I’m currently learning software development at college.
-📫 How to reach me: Either by mail to [this direction](mailto:lovethefrogs22@gmail.com) or on twitter as [@lovethe_frogs](https://twitter.com/lovethe_frogs)
+- 🔭 I’m currently working on PyCircTools, a library to develop circuits in no time using python.
+- 🌱 I’m currently learning software development at college.
+- 📫 How to reach me: Either by mail to [this direction](mailto:lovethefrogs22@gmail.com) or on twitter as [@lovethe_frogs](https://twitter.com/lovethe_frogs)
