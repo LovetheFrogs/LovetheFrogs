@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![counter](https://envo4bc4xcl1s7n.m.pipedream.net)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/lovethefrogs?country.x=ES&locale.x=es_ES)[![twitter](https://img.shields.io/badge/twitter-tt-blue)](https://twitter.com/lovethe_frogs)
+![counter](https://envo4bc4xcl1s7n.m.pipedream.net)[![twitter](https://img.shields.io/badge/twitter-tt-blue)](https://twitter.com/lovethe_frogs)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/lovethefrogs?country.x=ES&locale.x=es_ES)
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=LovetheFrogs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
