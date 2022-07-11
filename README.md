@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovetheFrogs&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
-- 🔭 I’m currently working on PyCircTools, a library to develop circuits in no time using python.
+- 🔭 I’m currently working on PyCircTools, a library to create logic circuits using python.
 - 🌱 I’m currently learning software development at college.
 - 📫 How to reach me: Either by mail to [this direction](mailto:lovethefrogs22@gmail.com) or on twitter as [@lovethe_frogs](https://twitter.com/lovethe_frogs)
 
