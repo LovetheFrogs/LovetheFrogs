@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=LovetheFrogs&theme=react-dark" width="100%"/>
 </p>
 
-- 😄 You can support me on paypal (badge on top of profile) or using [ko-fi!](https://ko-fi.com/E1E4DPZHG)
+- You can support me on paypal (badge on top of profile) or using [ko-fi!](https://ko-fi.com/E1E4DPZHG)
