@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on OSdev for my degree's final assignment.
 - 🌱 I’m currently learning software development at college and competitive programming.
-- 📫 How to reach me: Either by mail to [this direction](mailto:lovethefrogs22@gmail.com) or on twitter as [@lovethe_frogs](https://twitter.com/lovethe_frogs)
+- 📫 How to reach me: Either by mail to [this direction](mailto:lovethefrogs22@gmail.com) or on twitter at [@lovethe_frogs](https://twitter.com/lovethe_frogs)
 
 <p align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LovetheFrogs&hide_border=false&theme=react&background=0d1117" width="55%"/>
