@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <p align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LovetheFrogs&hide_border=false&theme=react&background=0d1117" width="55%"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=LovetheFrogs&theme=react-dark" width="100%"/>
 </p>
 
 - You can support me on paypal (badge on top of profile) or using [ko-fi!](https://ko-fi.com/E1E4DPZHG)
